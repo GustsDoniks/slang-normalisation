@@ -1,196 +1,196 @@
 term,meaning,example,type,source
-W,Shorthand for win,,slang,genz_slang.csv
-L,"Noun: loss, failure, defeat, or bad outcome; can describe taking a loss or something being unsuccessful.","""We took the L on that one."" | ""We took an L today.""",slang,genz_slang.csv; gen_zz_words.csv
-L+ratio,Response to a comment or action on the internet that is particularly bad.,,slang,genz_slang.csv
-Dank,"Adjective: excellent, high-quality, or very good; often used especially for memes or internet content.","""That meme is dank.""",slang,genz_slang.csv; gen_zz_words.csv
-Cheugy,Derogatory term for Millennials. Used when millennials are perceived to be excessively attempting to be trendy or stylish.,,slang,genz_slang.csv
-TFW, That feeling when,,slang,genz_slang.csv
-Woke,"Adjective: aware of social or political issues, especially injustice or inequality.","""Stay woke, everyone."" | ""We need to stay woke.""",slang,genz_slang.csv; gen_zz_words.csv
-Bop,"Noun: a very good or enjoyable song, track, or album.","""That new track is a bop.""",slang,genz_slang.csv; gen_zz_words.csv
-GOAT,"Greatest of all time; a person or thing considered the best in a field, activity, or category.",Messi is the GOAT.,slang,genz_slang.csv; gen_zz_words.csv
-Smol,"Something that is small, and in most cases exceptionally adorable.",,slang,genz_slang.csv
-Fam,"Fam is a shorter word for family, but don't be fooled– it can be used to describe your friends or the way Millennials use ""bro"".",,slang,genz_slang.csv
+w,Shorthand for win,,slang,genz_slang.csv
+l,"Noun: loss, failure, defeat, or bad outcome; can describe taking a loss or something being unsuccessful.","""We took the L on that one."" | ""We took an L today.""",slang,genz_slang.csv; gen_zz_words.csv
+l+ratio,Response to a comment or action on the internet that is particularly bad.,,slang,genz_slang.csv
+dank,"Adjective: excellent, high-quality, or very good; often used especially for memes or internet content.","""That meme is dank.""",slang,genz_slang.csv; gen_zz_words.csv
+cheugy,Derogatory term for Millennials. Used when millennials are perceived to be excessively attempting to be trendy or stylish.,,slang,genz_slang.csv
+tfw, That feeling when,,slang,genz_slang.csv
+woke,"Adjective: aware of social or political issues, especially injustice or inequality.","""Stay woke, everyone."" | ""We need to stay woke.""",slang,genz_slang.csv; gen_zz_words.csv
+bop,"Noun: a very good or enjoyable song, track, or album.","""That new track is a bop.""",slang,genz_slang.csv; gen_zz_words.csv
+goat,"Greatest of all time; a person or thing considered the best in a field, activity, or category.",Messi is the GOAT.,slang,genz_slang.csv; gen_zz_words.csv
+smol,"Something that is small, and in most cases exceptionally adorable.",,slang,genz_slang.csv
+fam,"Fam is a shorter word for family, but don't be fooled– it can be used to describe your friends or the way Millennials use ""bro"".",,slang,genz_slang.csv
 glow up,"Noun: a significant positive transformation or improvement, especially in appearance, style, confidence, or life situation; verb phrase: to improve in that way.",She had a major glow-up over the summer.,slang,genz_slang.csv; gen_zz_words.csv
-Stan,"Noun: an enthusiastic, devoted, or obsessive fan; verb: to strongly support, admire, or idolize someone or something.","""I'm a stan for that band.""",slang,genz_slang.csv; gen_zz_words.csv
-Ghosting,"Noun/verb form: suddenly cutting off communication with someone, especially in dating or talking-stage contexts, by ignoring or not replying.","""He ghosted me after our date.""",slang,genz_slang.csv; gen_zz_words.csv
-Salty,"Adjective: bitter, upset, annoyed, resentful, or jealous, often because of a loss, criticism, or disappointment.","""Why are you so salty?"" | ""Why are you so salty today?""",slang,genz_slang.csv; gen_zz_words.csv
-Sip tea,Gossiping (spilling the tea),,slang,genz_slang.csv
-Drip,"Noun: stylish clothing, fashion, swag, or attractive personal style; adjective use: stylish or fashionable.","""Check out my drip today."" | ""Check out my drip.""",slang,genz_slang.csv; gen_zz_words.csv
-Iykyk,"Acronym for ""If you know, you know."" Used to describe inside jokes.",,slang,genz_slang.csv
+stan,"Noun: an enthusiastic, devoted, or obsessive fan; verb: to strongly support, admire, or idolize someone or something.","""I'm a stan for that band.""",slang,genz_slang.csv; gen_zz_words.csv
+ghosting,"Noun/verb form: suddenly cutting off communication with someone, especially in dating or talking-stage contexts, by ignoring or not replying.","""He ghosted me after our date.""",slang,genz_slang.csv; gen_zz_words.csv
+salty,"Adjective: bitter, upset, annoyed, resentful, or jealous, often because of a loss, criticism, or disappointment.","""Why are you so salty?"" | ""Why are you so salty today?""",slang,genz_slang.csv; gen_zz_words.csv
+sip tea,Gossiping (spilling the tea),,slang,genz_slang.csv
+drip,"Noun: stylish clothing, fashion, swag, or attractive personal style; adjective use: stylish or fashionable.","""Check out my drip today."" | ""Check out my drip.""",slang,genz_slang.csv; gen_zz_words.csv
+iykyk,"Acronym for ""If you know, you know."" Used to describe inside jokes.",,slang,genz_slang.csv
 rent free,"Constantly occupying someone's thoughts, usually in a mocking sense; can mean someone is repeatedly thinking about or upset by something.",She lives rent free in their heads.,slang,genz_slang.csv; manual_additions.csv
-Catch these hands,Used to threaten physical combat with someone,,slang,genz_slang.csv
-Drag,"If you drag someone, you're criticizing or making fun of them",,slang,genz_slang.csv
+catch these hands,Used to threaten physical combat with someone,,slang,genz_slang.csv
+drag,"If you drag someone, you're criticizing or making fun of them",,slang,genz_slang.csv
 bussin,"Very good or excellent, especially food, but also an enjoyable or impressive thing; variants include bussin', bussin’.",This food is bussin.,slang,genz_slang.csv; manual_additions.csv
-Snatched,"If someone is looking snatched, they look really good, particularly their outfit",,slang,genz_slang.csv
-Cancel culture,"a form of shaming the actions or opinions of a public figure, company, or organization",,slang,genz_slang.csv
-Ffs,For fuck sake,,slang,genz_slang.csv
+snatched,"If someone is looking snatched, they look really good, particularly their outfit",,slang,genz_slang.csv
+cancel culture,"a form of shaming the actions or opinions of a public figure, company, or organization",,slang,genz_slang.csv
+ffs,For fuck sake,,slang,genz_slang.csv
 e-boy,"similar to emo or goth culture, but they use the internet to express themselves.",,slang,genz_slang.csv
 e-girl,"similar to emo or goth culture, but they use the internet to express themselves.",,slang,genz_slang.csv
-Big Yikes,"A reaction to something very embarrassing, awkward, cringeworthy, or socially uncomfortable.","""That was a big yikes moment.""",slang,genz_slang.csv; gen_zz_words.csv
-Finna,"Auxiliary phrase: fixing to, about to, or going to do something soon.","""I'm finna go now.""",slang,genz_slang.csv; gen_zz_words.csv
-Cap,"Noun: a lie, false claim, or exaggeration; verb: to lie or exaggerate.","""That's cap, you didn't do that.""",slang,genz_slang.csv; gen_zz_words.csv
-High-Key,"Adverb: openly, clearly, strongly, emphatically, or not secretly; opposite of low-key.","""I'm high-key excited for this."" | ""I'm high-key loving this weather.""",slang,genz_slang.csv; gen_zz_words.csv
-Simp,"Noun: someone who does too much for, is overly devoted to, or acts excessively submissive toward someone they like; verb: to behave in that way.","""He's such a simp for her."" | ""Stop simping over her.""",slang,genz_slang.csv; gen_zz_words.csv
-Camp,Something that is ironically trendy. One might consider Crocs to be of the camp aesthetic.,,slang,genz_slang.csv
-Snack, a person that you find attractive,,slang,genz_slang.csv
-Take several seats,"If someone is really getting on your nerves, you might tell them to take several seats.",,slang,genz_slang.csv
-Sheesh,"To praise someone when they are doing something good. The one being praised is to do the ""ice in my veins"" pose popularized by Basketball player D'Angelo Russell.",,slang,genz_slang.csv
-Hits Different,"Verb phrase: feels unusually meaningful, better, more emotional, or more impactful than expected.","""That song hits different.""",slang,genz_slang.csv; gen_zz_words.csv
-Bet,"Interjection: yes, okay, agreed, or confirmed; can also mean ""it is on"" or ""deal"".","""Bet, I'll be there.""",slang,genz_slang.csv; gen_zz_words.csv
-Periodt,"Interjection: used at the end of a statement for emphasis, finality, or strong agreement; means something like ""end of discussion"".","""And that's the truth, periodt.""",slang,genz_slang.csv; gen_zz_words.csv
-Finesse,"Verb: to handle something skillfully or cleverly; can also mean to trick, manipulate, or work a situation to get the desired result.","""He finessed his way into the club."" | ""He finessed his way in.""",slang,genz_slang.csv; gen_zz_words.csv
-I’m weak,"Similar to ""I'm dead"", this is just another term to use when you find something hilarious",,slang,genz_slang.csv
-Main Character,"Noun/person description: someone acting like the central figure in a situation; can mean charismatic, confident, well-liked, attention-seeking, or making a scene depending on context.","""She's totally giving main character vibes.""",slang,genz_slang.csv; gen_zz_words.csv
-Sis,"A shortened version of ""sister"", this term is typically used to greet a friend, no matter their gender.",,slang,genz_slang.csv
-Sending me,Another term to use if you find something particularly funny.,,slang,genz_slang.csv
-Gaup,"Money, and lots of it.",,slang,genz_slang.csv
-"This ain’t it, chief",Another way of giving disapproval for something.,,slang,genz_slang.csv
-Extra,"Adjective/person description: over-the-top, excessive, dramatic, flamboyant, or doing more than necessary.","""She's so extra with her outfits."" | ""She's so extra with her drama.""",slang,genz_slang.csv; gen_zz_words.csv
+big yikes,"A reaction to something very embarrassing, awkward, cringeworthy, or socially uncomfortable.","""That was a big yikes moment.""",slang,genz_slang.csv; gen_zz_words.csv
+finna,"Auxiliary phrase: fixing to, about to, or going to do something soon.","""I'm finna go now.""",slang,genz_slang.csv; gen_zz_words.csv
+cap,"Noun: a lie, false claim, or exaggeration; verb: to lie or exaggerate.","""That's cap, you didn't do that.""",slang,genz_slang.csv; gen_zz_words.csv
+high-key,"Adverb: openly, clearly, strongly, emphatically, or not secretly; opposite of low-key.","""I'm high-key excited for this."" | ""I'm high-key loving this weather.""",slang,genz_slang.csv; gen_zz_words.csv
+simp,"Noun: someone who does too much for, is overly devoted to, or acts excessively submissive toward someone they like; verb: to behave in that way.","""He's such a simp for her."" | ""Stop simping over her.""",slang,genz_slang.csv; gen_zz_words.csv
+camp,Something that is ironically trendy. One might consider Crocs to be of the camp aesthetic.,,slang,genz_slang.csv
+snack, a person that you find attractive,,slang,genz_slang.csv
+take several seats,"If someone is really getting on your nerves, you might tell them to take several seats.",,slang,genz_slang.csv
+sheesh,"To praise someone when they are doing something good. The one being praised is to do the ""ice in my veins"" pose popularized by Basketball player D'Angelo Russell.",,slang,genz_slang.csv
+hits different,"Verb phrase: feels unusually meaningful, better, more emotional, or more impactful than expected.","""That song hits different.""",slang,genz_slang.csv; gen_zz_words.csv
+bet,"Interjection: yes, okay, agreed, or confirmed; can also mean ""it is on"" or ""deal"".","""Bet, I'll be there.""",slang,genz_slang.csv; gen_zz_words.csv
+periodt,"Interjection: used at the end of a statement for emphasis, finality, or strong agreement; means something like ""end of discussion"".","""And that's the truth, periodt.""",slang,genz_slang.csv; gen_zz_words.csv
+finesse,"Verb: to handle something skillfully or cleverly; can also mean to trick, manipulate, or work a situation to get the desired result.","""He finessed his way into the club."" | ""He finessed his way in.""",slang,genz_slang.csv; gen_zz_words.csv
+i’m weak,"Similar to ""I'm dead"", this is just another term to use when you find something hilarious",,slang,genz_slang.csv
+main character,"Noun/person description: someone acting like the central figure in a situation; can mean charismatic, confident, well-liked, attention-seeking, or making a scene depending on context.","""She's totally giving main character vibes.""",slang,genz_slang.csv; gen_zz_words.csv
+sis,"A shortened version of ""sister"", this term is typically used to greet a friend, no matter their gender.",,slang,genz_slang.csv
+sending me,Another term to use if you find something particularly funny.,,slang,genz_slang.csv
+gaup,"Money, and lots of it.",,slang,genz_slang.csv
+"this ain’t it, chief",Another way of giving disapproval for something.,,slang,genz_slang.csv
+extra,"Adjective/person description: over-the-top, excessive, dramatic, flamboyant, or doing more than necessary.","""She's so extra with her outfits."" | ""She's so extra with her drama.""",slang,genz_slang.csv; gen_zz_words.csv
 clapback,"Noun: a sharp, witty, or forceful response to criticism or an insult; verb: to respond sharply or wittily.",Her reply was a perfect clapback.,slang,genz_slang.csv; gen_zz_words.csv
 @ me,"Pronounced ""at me."" Used on social media when someone feels attacked by a post.",,slang,genz_slang.csv
-Asl,"Has two definitions. It can be used as a shortened version of ""as hell."" It can also be used as an acronym for age/sex/location.",,slang,genz_slang.csv
-Bang 30s,To get in a physical altercation with someone.,,slang,genz_slang.csv
-Based,"Originally meaning ""to be your self and not care about how others view you"", The word is now used to indicate an opinion or something that someone agrees with. It is especially common in political slang and discussions.",,slang,genz_slang.csv
-Beat your face,To apply makeup to the face.,,slang,genz_slang.csv
-Big mad,Term used to describe when someone is excessively angry.,,slang,genz_slang.csv
-Body count,"A euphemism for how many people one has had sex with. Initially referred to specifically sexual intercourse, but was expanded to include all forms of sex.",,slang,genz_slang.csv
-Boujee,"Adjective: luxurious, fancy, high-class, or materialistic; noun/person description: someone acting high-class, fancy, or materialistic.","""She's living the boujee life."" | ""She's so boujee with her style.""",slang,genz_slang.csv; gen_zz_words.csv
-Bussy,"""Boy Pussy,"" i.e. a man's anus.",,slang,genz_slang.csv
-Cringe,"Adjective/noun: embarrassing, awkward, or socially uncomfortable; can also describe a reaction of embarrassment or second-hand embarrassment.","""That video was cringe.""",slang,genz_slang.csv; gen_zz_words.csv
-Ded,"Used to describe something humorous to such an extent as to ""kill you.""",,slang,genz_slang.csv
-Facts,"Interjection/noun: true, correct, or something agreed with as truthful.","""That's facts.""",slang,genz_slang.csv; gen_zz_words.csv
-I oop,"Used to express shock, embarrassment, and or amusement.",,slang,genz_slang.csv
+asl,"Has two definitions. It can be used as a shortened version of ""as hell."" It can also be used as an acronym for age/sex/location.",,slang,genz_slang.csv
+bang 30s,To get in a physical altercation with someone.,,slang,genz_slang.csv
+based,"Originally meaning ""to be your self and not care about how others view you"", The word is now used to indicate an opinion or something that someone agrees with. It is especially common in political slang and discussions.",,slang,genz_slang.csv
+beat your face,To apply makeup to the face.,,slang,genz_slang.csv
+big mad,Term used to describe when someone is excessively angry.,,slang,genz_slang.csv
+body count,"A euphemism for how many people one has had sex with. Initially referred to specifically sexual intercourse, but was expanded to include all forms of sex.",,slang,genz_slang.csv
+boujee,"Adjective: luxurious, fancy, high-class, or materialistic; noun/person description: someone acting high-class, fancy, or materialistic.","""She's living the boujee life."" | ""She's so boujee with her style.""",slang,genz_slang.csv; gen_zz_words.csv
+bussy,"""Boy Pussy,"" i.e. a man's anus.",,slang,genz_slang.csv
+cringe,"Adjective/noun: embarrassing, awkward, or socially uncomfortable; can also describe a reaction of embarrassment or second-hand embarrassment.","""That video was cringe.""",slang,genz_slang.csv; gen_zz_words.csv
+ded,"Used to describe something humorous to such an extent as to ""kill you.""",,slang,genz_slang.csv
+facts,"Interjection/noun: true, correct, or something agreed with as truthful.","""That's facts.""",slang,genz_slang.csv; gen_zz_words.csv
+i oop,"Used to express shock, embarrassment, and or amusement.",,slang,genz_slang.csv
 t's giving…,Describes the vibes or connotation of something.,,slang,genz_slang.csv
-Lit,"Adjective: exciting, fun, excellent, remarkable, amusing, or very good.","""That party was lit."" | ""This party is lit.""",slang,genz_slang.csv; gen_zz_words.csv
-Mid,Short for mediocre,,slang,genz_slang.csv
-Not you,Used to condemn or poke fun at someone or something.,,slang,genz_slang.csv
-NPC,Someone who cannot think for themselves and/or has no or little control over their own life. Someone that is ready to agree with popular opinion unquestioningly and always believes what they are told. Gullible,,slang,genz_slang.csv
-OK boomer,Derogatory term directed towards Baby Boomers. Used as a response when boomers are deemed to be out of touch with younger generations,,slang,genz_slang.csv
-On god,"Short for ""I swear to god."" Means that a person's statement is frank.",,slang,genz_slang.csv
-Ratio,"When an internet post has a comparable number of comments/replies to ""likes"", which is usually indicative of a poor reception.",,slang,genz_slang.csv
-Rizz,One's courtship/seduction skills,,slang,genz_slang.csv
-Sksksk,Used to convey happiness/laughter,,slang,genz_slang.csv
-Slaps,"Verb: is very good, excellent, enjoyable, or impressive; often used for music, food, or content.","""This beat slaps."" | ""This beat slaps hard.""",slang,genz_slang.csv; gen_zz_words.csv
-Sus,"Adjective: suspicious, suspect, questionable, or not trustworthy.","""That sounds sus to me."" | ""That seems sus.""",slang,genz_slang.csv; gen_zz_words.csv
-Slay,"Verb: to do something very well, succeed impressively, look very good, or perform exceptionally.","""You slayed that presentation."" | ""She slayed that outfit.""",slang,genz_slang.csv; gen_zz_words.csv
-Tea,"Noun: gossip, news, information, or interesting details; often used in phrases like ""spill the tea"".","""Spill the tea, what happened?""",slang,genz_slang.csv; gen_zz_words.csv
-Understood the assignment,To understand what was supposed to be done; to do something well,,slang,genz_slang.csv
-Valid,Understandable,,slang,genz_slang.csv
-Vibe Check,"Noun/verb phrase: an assessment of someone's mood, personality, attitude, energy, or the atmosphere of a situation.","""Let's do a vibe check.""",slang,genz_slang.csv; gen_zz_words.csv
-Vibing,describes a generic positive feeling that someone has about something,,slang,genz_slang.csv
-Wig,"Interjection/reaction: used when something is surprising, shocking, or impressive; related phrase ""wig snatched"" means being strongly impressed or shocked.","""My wig was snatched by that performance.""",slang,genz_slang.csv; gen_zz_words.csv
-Word,"Slang for ""okay.""",,slang,genz_slang.csv
-Af,As fuck,,slang,genz_slang.csv
-Big brain,When you have done something silly making you feel like your own brain shrinks as you regret all of your life,,slang,genz_slang.csv
+lit,"Adjective: exciting, fun, excellent, remarkable, amusing, or very good.","""That party was lit."" | ""This party is lit.""",slang,genz_slang.csv; gen_zz_words.csv
+mid,Short for mediocre,,slang,genz_slang.csv
+not you,Used to condemn or poke fun at someone or something.,,slang,genz_slang.csv
+npc,Someone who cannot think for themselves and/or has no or little control over their own life. Someone that is ready to agree with popular opinion unquestioningly and always believes what they are told. Gullible,,slang,genz_slang.csv
+ok boomer,Derogatory term directed towards Baby Boomers. Used as a response when boomers are deemed to be out of touch with younger generations,,slang,genz_slang.csv
+on god,"Short for ""I swear to god."" Means that a person's statement is frank.",,slang,genz_slang.csv
+ratio,"When an internet post has a comparable number of comments/replies to ""likes"", which is usually indicative of a poor reception.",,slang,genz_slang.csv
+rizz,One's courtship/seduction skills,,slang,genz_slang.csv
+sksksk,Used to convey happiness/laughter,,slang,genz_slang.csv
+slaps,"Verb: is very good, excellent, enjoyable, or impressive; often used for music, food, or content.","""This beat slaps."" | ""This beat slaps hard.""",slang,genz_slang.csv; gen_zz_words.csv
+sus,"Adjective: suspicious, suspect, questionable, or not trustworthy.","""That sounds sus to me."" | ""That seems sus.""",slang,genz_slang.csv; gen_zz_words.csv
+slay,"Verb: to do something very well, succeed impressively, look very good, or perform exceptionally.","""You slayed that presentation."" | ""She slayed that outfit.""",slang,genz_slang.csv; gen_zz_words.csv
+tea,"Noun: gossip, news, information, or interesting details; often used in phrases like ""spill the tea"".","""Spill the tea, what happened?""",slang,genz_slang.csv; gen_zz_words.csv
+understood the assignment,To understand what was supposed to be done; to do something well,,slang,genz_slang.csv
+valid,Understandable,,slang,genz_slang.csv
+vibe check,"Noun/verb phrase: an assessment of someone's mood, personality, attitude, energy, or the atmosphere of a situation.","""Let's do a vibe check.""",slang,genz_slang.csv; gen_zz_words.csv
+vibing,describes a generic positive feeling that someone has about something,,slang,genz_slang.csv
+wig,"Interjection/reaction: used when something is surprising, shocking, or impressive; related phrase ""wig snatched"" means being strongly impressed or shocked.","""My wig was snatched by that performance.""",slang,genz_slang.csv; gen_zz_words.csv
+word,"Slang for ""okay.""",,slang,genz_slang.csv
+af,As fuck,,slang,genz_slang.csv
+big brain,When you have done something silly making you feel like your own brain shrinks as you regret all of your life,,slang,genz_slang.csv
 chad,"An attractive, confident, socially successful, or stereotypically masculine man; sometimes used sincerely, ironically, or in incel/manosphere contexts.",He handled that like a chad.,slang,genz_slang.csv; manual_additions.csv
-Clapped,To be completely and utterly destroyed.,,slang,genz_slang.csv
-Clown,People who are completely unintelligent.,,slang,genz_slang.csv
-Cringy,anything that’s embarrassing or try-hard,,slang,genz_slang.csv
-FOMO,"Noun: fear of missing out; anxiety or regret about missing an event, experience, or opportunity.","""I have FOMO from missing that party.""",slang,genz_slang.csv; gen_zz_words.csv
-Fr,For real,,slang,genz_slang.csv
-I can’t even,an expression commonly used when someone is feeling either so overjoyed or exasperated that they can’t even find the right words; depending on the context.,,slang,genz_slang.csv
-Ion,I don’t,,slang,genz_slang.csv
-IRL,In Real Life,,slang,genz_slang.csv
-Karen,"Noun: an entitled, demanding, unreasonable, or rude person, often stereotypically directed at women behaving badly toward service workers or others.","""Don't be such a Karen."" | ""She's such a Karen.""",slang,genz_slang.csv; gen_zz_words.csv
+clapped,To be completely and utterly destroyed.,,slang,genz_slang.csv
+clown,People who are completely unintelligent.,,slang,genz_slang.csv
+cringy,anything that’s embarrassing or try-hard,,slang,genz_slang.csv
+fomo,"Noun: fear of missing out; anxiety or regret about missing an event, experience, or opportunity.","""I have FOMO from missing that party.""",slang,genz_slang.csv; gen_zz_words.csv
+fr,For real,,slang,genz_slang.csv
+i can’t even,an expression commonly used when someone is feeling either so overjoyed or exasperated that they can’t even find the right words; depending on the context.,,slang,genz_slang.csv
+ion,I don’t,,slang,genz_slang.csv
+irl,In Real Life,,slang,genz_slang.csv
+karen,"Noun: an entitled, demanding, unreasonable, or rude person, often stereotypically directed at women behaving badly toward service workers or others.","""Don't be such a Karen."" | ""She's such a Karen.""",slang,genz_slang.csv; gen_zz_words.csv
 lowkey,"Subtly, secretly, quietly, slightly, or to a moderate degree without making it obvious.",I'm lowkey enjoying this.,slang,genz_slang.csv; gen_zz_words.csv
-Mom,It just means to admire or look up to someone so much that you jokingly want to be adopted by them or have them as your second parent,,slang,genz_slang.csv
-Dad,It just means to admire or look up to someone so much that you jokingly want to be adopted by them or have them as your second parent,,slang,genz_slang.csv
-NGL,Not Gonna Lie,,slang,genz_slang.csv
-Pick me girl,"Pick me girls are the type of girls who claim that they are nothing like other girls, in order to get attention from guys (also see ‘simping’ below). It’s a derogatory term.",,slang,genz_slang.csv
+mom,It just means to admire or look up to someone so much that you jokingly want to be adopted by them or have them as your second parent,,slang,genz_slang.csv
+dad,It just means to admire or look up to someone so much that you jokingly want to be adopted by them or have them as your second parent,,slang,genz_slang.csv
+ngl,Not Gonna Lie,,slang,genz_slang.csv
+pick me girl,"Pick me girls are the type of girls who claim that they are nothing like other girls, in order to get attention from guys (also see ‘simping’ below). It’s a derogatory term.",,slang,genz_slang.csv
 boomer,"An older person, especially a baby boomer, or someone seen as out of touch with modern culture, trends, or technology.","Okay boomer, that's not how apps work.",slang,genz_slang.csv; manual_additions.csv
-Sleeping on,"When you ""sleep on"" something, you overlook or underestimate it",,slang,genz_slang.csv
-Shade,"Noun: a subtle or indirect insult, diss, criticism, or disrespect; verb phrase: to throw shade means to insult indirectly.","""She's throwing shade at her ex."" | ""She threw some serious shade at the party.""",slang,genz_slang.csv; gen_zz_words.csv
-Shook,"Adjective: shocked, surprised, startled, or emotionally affected.","""I was shook when I heard the news."" | ""I was shook by the news.""",slang,genz_slang.csv; gen_zz_words.csv
-Smh,"Shake my head’. Another one for texting, smh usually signifies exasperation",,slang,genz_slang.csv
-TBH,short for “to be honest” and is usually used when making a comment or a joke (best to stick to texts with this one too).,,slang,genz_slang.csv
-Thirsty,"Adjective: desperate for attention, approval, affection, attraction, or validation.","""He's so thirsty for likes.""",slang,genz_slang.csv; gen_zz_words.csv
-Thirst trap,"a social media post intended to, uh, entice viewers and get attention.",,slang,genz_slang.csv
-Yas,A very enthusiastic and celebratory way of saying yes!,,slang,genz_slang.csv
-Yeet,"Verb: to throw something forcefully; interjection: an excited exclamation used when doing something risky, energetic, or forceful.","""He yeeted the ball across the field."" | ""He yeeted the ball.""",slang,genz_slang.csv; gen_zz_words.csv
+sleeping on,"When you ""sleep on"" something, you overlook or underestimate it",,slang,genz_slang.csv
+shade,"Noun: a subtle or indirect insult, diss, criticism, or disrespect; verb phrase: to throw shade means to insult indirectly.","""She's throwing shade at her ex."" | ""She threw some serious shade at the party.""",slang,genz_slang.csv; gen_zz_words.csv
+shook,"Adjective: shocked, surprised, startled, or emotionally affected.","""I was shook when I heard the news."" | ""I was shook by the news.""",slang,genz_slang.csv; gen_zz_words.csv
+smh,"Shake my head’. Another one for texting, smh usually signifies exasperation",,slang,genz_slang.csv
+tbh,short for “to be honest” and is usually used when making a comment or a joke (best to stick to texts with this one too).,,slang,genz_slang.csv
+thirsty,"Adjective: desperate for attention, approval, affection, attraction, or validation.","""He's so thirsty for likes.""",slang,genz_slang.csv; gen_zz_words.csv
+thirst trap,"a social media post intended to, uh, entice viewers and get attention.",,slang,genz_slang.csv
+yas,A very enthusiastic and celebratory way of saying yes!,,slang,genz_slang.csv
+yeet,"Verb: to throw something forcefully; interjection: an excited exclamation used when doing something risky, energetic, or forceful.","""He yeeted the ball across the field."" | ""He yeeted the ball.""",slang,genz_slang.csv; gen_zz_words.csv
 ick,used to express disgust at something unpleasant or offensive.,,slang,genz_slang.csv
 naur,"means no or know. It functions as a more dramatic way of saying ""no"" or ""know,"" and sounds like ""no"" with an Australian accent. ",,slang,genz_slang.csv
-Say less,"A shortened version of ""say no more.""",,slang,genz_slang.csv
-Unserious," a more fun way of saying something or someone is ridiculous, or that it can't be taken seriously.",,slang,genz_slang.csv
-Gagged,"To be “gagged” is to be shocked, amazed, et cetera.",,slang,genz_slang.csv
-Ate,"If you “ate” something, it means you executed it extremely well. ",,slang,genz_slang.csv
-Poggers,an expression that conveys excitement,,slang,genz_slang.csv
-Heather,"any lovely person who seems like they’re the main character, evoking as much admiration as jealousy",,slang,genz_slang.csv
-Wth,What the hell,,slang,genz_slang.csv
-Flex,"Verb: to show off, boast, gloat, or display something proudly; noun: an act of showing off or something used to show status.","""He's flexing his new phone."" | ""He's always flexing his new car.""",slang,genz_slang.csv; gen_zz_words.csv
-Gucci,"Adjective: good, cool, fine, okay, or all right.","""Everything's Gucci."" | ""Everything's Gucci here.""",slang,genz_slang.csv; gen_zz_words.csv
-Hot girl summer,"Hands down one of the biggest slang terms to hit pop culture in the summer of 2019, hot girl summer is about women having a good time and being unapologetic about who they are",,slang,genz_slang.csv
-Sturdy,"used to describe someone's dance moves. It's usually used in the phrase ""get sturdy"", which means that someone is performing a specific type of dance in which they move their legs, spin, and hop.",,slang,genz_slang.csv
+say less,"A shortened version of ""say no more.""",,slang,genz_slang.csv
+unserious," a more fun way of saying something or someone is ridiculous, or that it can't be taken seriously.",,slang,genz_slang.csv
+gagged,"To be “gagged” is to be shocked, amazed, et cetera.",,slang,genz_slang.csv
+ate,"If you “ate” something, it means you executed it extremely well. ",,slang,genz_slang.csv
+poggers,an expression that conveys excitement,,slang,genz_slang.csv
+heather,"any lovely person who seems like they’re the main character, evoking as much admiration as jealousy",,slang,genz_slang.csv
+wth,What the hell,,slang,genz_slang.csv
+flex,"Verb: to show off, boast, gloat, or display something proudly; noun: an act of showing off or something used to show status.","""He's flexing his new phone."" | ""He's always flexing his new car.""",slang,genz_slang.csv; gen_zz_words.csv
+gucci,"Adjective: good, cool, fine, okay, or all right.","""Everything's Gucci."" | ""Everything's Gucci here.""",slang,genz_slang.csv; gen_zz_words.csv
+hot girl summer,"Hands down one of the biggest slang terms to hit pop culture in the summer of 2019, hot girl summer is about women having a good time and being unapologetic about who they are",,slang,genz_slang.csv
+sturdy,"used to describe someone's dance moves. It's usually used in the phrase ""get sturdy"", which means that someone is performing a specific type of dance in which they move their legs, spin, and hop.",,slang,genz_slang.csv
 skill issue,A mocking phrase meaning that a problem or loss is due to someone's lack of skill.,You lost again? Skill issue.,slang,genz_slang.csv; manual_additions.csv
-TNTL,Trying not to laugh,,slang,genz_slang.csv
-G2G,Got to go,,slang,genz_slang.csv
-YNK,You never know,,slang,genz_slang.csv
-CSL,Can’t stop laughing,,slang,genz_slang.csv
-GMTA,Great minds think alike,,slang,genz_slang.csv
-IMO,In my opinion,,slang,genz_slang.csv
-IMOH,In my humble opinion,,slang,genz_slang.csv
-JK,Just kidding,,slang,genz_slang.csv
-Bae,"Short for “baby."" Often a pet name for a crush or significant other.  ",,slang,genz_slang.csv
-SSDD,"Some stuff, different day",,slang,genz_slang.csv
-WYWH,Wish you were here,,slang,genz_slang.csv
-Benching,"Just like in sports, benching someone in dating means putting them to the side to date other people.",,slang,genz_slang.csv
-Breadcumbing,When someone leads you on by flirting and making you feel special but without any intention to actually commit to a relationship.,,slang,genz_slang.csv
-Cuffing,"""Cuffing"" simply means to get into a relationship.",,slang,genz_slang.csv
-DTR,Define the relationship,,slang,genz_slang.csv
-Gaslighting,"refers to a form of psychological manipulation in which a significant other makes you feel crazy or wrong, even when unjustified",,slang,genz_slang.csv
-ILY,I love you,,slang,genz_slang.csv
-Pink flags,"Based on the idea of red flags, pink flags are on step down. They aren’t huge warning signals that something is wrong, but they can hint that this relationship isn’t super healthy",,slang,genz_slang.csv
-Smash,means to have casual sex,,slang,genz_slang.csv
-Situationship,Describes two people who are not officially dating but who have feelings for each other,,slang,genz_slang.csv
-Zaddy,"Refers to an attractive, well-dressed man. Often, it’s an older man",,slang,genz_slang.csv
-Zombie-ing,"This happens after someone ghosts you, and then decides to start talking to you again like nothing ever happened.",,slang,genz_slang.csv
-Bounce,"Verb: to leave, exit, or go away, often quickly or casually.","""I'm bouncing, see you later."" | ""I'm gonna bounce now.""",slang,gen_zz_words.csv
-Cancelled,"Adjective/verb form: publicly denounced, rejected, or socially criticized because of something said or done.","""She got cancelled after that post.""",slang,gen_zz_words.csv
-Chill,"Adjective: relaxed, calm, or easy-going; verb: to relax or spend time casually.","""I'm just chilling today.""",slang,gen_zz_words.csv
-DM,Direct Message on social media.,"""I'll DM you the details.""",slang,gen_zz_words.csv
-Dope,"Adjective: cool, excellent, awesome, or impressive.","""That jacket is dope."" | ""That outfit is dope.""",slang,gen_zz_words.csv
-Hype,"Noun: intense excitement, attention, or anticipation; verb: to excite, promote, or build anticipation.","""The hype is real."" | ""The hype is real for this movie.""",slang,gen_zz_words.csv
-Noob,Newbie or beginner.,"""He's such a noob at this game.""",slang,gen_zz_words.csv
-Oof,"Interjection: a reaction expressing sympathy, discomfort, pain, awkwardness, or recognition that something is tough or unfortunate.","""Oof, that must have hurt."" | ""Oof, that's tough.""",slang,gen_zz_words.csv
-Receipts,"Noun: proof, evidence, screenshots, messages, or records supporting a claim.","""Show me the receipts for your claims."" | ""Where are the receipts for your claim?""",slang,gen_zz_words.csv
-Spill,Reveal the truth.,"""Spill the tea, what happened?""",slang,gen_zz_words.csv
-Vibes,"Noun: energy, mood, atmosphere, feeling, or general impression; often positive when used as ""good vibes"".","""I'm loving the vibes here."" | ""I love the vibes here.""",slang,gen_zz_words.csv
+tntl,Trying not to laugh,,slang,genz_slang.csv
+g2g,Got to go,,slang,genz_slang.csv
+ynk,You never know,,slang,genz_slang.csv
+csl,Can’t stop laughing,,slang,genz_slang.csv
+gmta,Great minds think alike,,slang,genz_slang.csv
+imo,In my opinion,,slang,genz_slang.csv
+imoh,In my humble opinion,,slang,genz_slang.csv
+jk,Just kidding,,slang,genz_slang.csv
+bae,"Short for “baby."" Often a pet name for a crush or significant other.  ",,slang,genz_slang.csv
+ssdd,"Some stuff, different day",,slang,genz_slang.csv
+wywh,Wish you were here,,slang,genz_slang.csv
+benching,"Just like in sports, benching someone in dating means putting them to the side to date other people.",,slang,genz_slang.csv
+breadcumbing,When someone leads you on by flirting and making you feel special but without any intention to actually commit to a relationship.,,slang,genz_slang.csv
+cuffing,"""Cuffing"" simply means to get into a relationship.",,slang,genz_slang.csv
+dtr,Define the relationship,,slang,genz_slang.csv
+gaslighting,"refers to a form of psychological manipulation in which a significant other makes you feel crazy or wrong, even when unjustified",,slang,genz_slang.csv
+ily,I love you,,slang,genz_slang.csv
+pink flags,"Based on the idea of red flags, pink flags are on step down. They aren’t huge warning signals that something is wrong, but they can hint that this relationship isn’t super healthy",,slang,genz_slang.csv
+smash,means to have casual sex,,slang,genz_slang.csv
+situationship,Describes two people who are not officially dating but who have feelings for each other,,slang,genz_slang.csv
+zaddy,"Refers to an attractive, well-dressed man. Often, it’s an older man",,slang,genz_slang.csv
+zombie-ing,"This happens after someone ghosts you, and then decides to start talking to you again like nothing ever happened.",,slang,genz_slang.csv
+bounce,"Verb: to leave, exit, or go away, often quickly or casually.","""I'm bouncing, see you later."" | ""I'm gonna bounce now.""",slang,gen_zz_words.csv
+cancelled,"Adjective/verb form: publicly denounced, rejected, or socially criticized because of something said or done.","""She got cancelled after that post.""",slang,gen_zz_words.csv
+chill,"Adjective: relaxed, calm, or easy-going; verb: to relax or spend time casually.","""I'm just chilling today.""",slang,gen_zz_words.csv
+dm,Direct Message on social media.,"""I'll DM you the details.""",slang,gen_zz_words.csv
+dope,"Adjective: cool, excellent, awesome, or impressive.","""That jacket is dope."" | ""That outfit is dope.""",slang,gen_zz_words.csv
+hype,"Noun: intense excitement, attention, or anticipation; verb: to excite, promote, or build anticipation.","""The hype is real."" | ""The hype is real for this movie.""",slang,gen_zz_words.csv
+noob,Newbie or beginner.,"""He's such a noob at this game.""",slang,gen_zz_words.csv
+oof,"Interjection: a reaction expressing sympathy, discomfort, pain, awkwardness, or recognition that something is tough or unfortunate.","""Oof, that must have hurt."" | ""Oof, that's tough.""",slang,gen_zz_words.csv
+receipts,"Noun: proof, evidence, screenshots, messages, or records supporting a claim.","""Show me the receipts for your claims."" | ""Where are the receipts for your claim?""",slang,gen_zz_words.csv
+spill,Reveal the truth.,"""Spill the tea, what happened?""",slang,gen_zz_words.csv
+vibes,"Noun: energy, mood, atmosphere, feeling, or general impression; often positive when used as ""good vibes"".","""I'm loving the vibes here."" | ""I love the vibes here.""",slang,gen_zz_words.csv
 zoomer,A member of Generation Z or someone associated with Gen Z internet culture.,This is such a zoomer meme.,slang,gen_zz_words.csv; manual_additions.csv
-Clout,"Noun: influence, popularity, social status, or power, especially online.","""He's just doing it for the clout.""",slang,gen_zz_words.csv
-Deadass,"Adverb/adjective: seriously, genuinely, honestly, or completely serious.","""I'm deadass not joking."" | ""I'm deadass serious.""",slang,gen_zz_words.csv
-JOMO,Noun: joy of missing out; happiness or relief from choosing not to attend or participate.,"""I'm all about JOMO these days."" | ""I prefer JOMO to FOMO.""",slang,gen_zz_words.csv
-Living Rent-Free,"Verb phrase: taking up a lot of space in someone's thoughts or mind, often repeatedly or involuntarily.","""She's living rent-free in my mind."" | ""That comment is living rent-free in my mind.""",slang,gen_zz_words.csv
-Normalize,"Verb: to make something accepted, common, usual, or treated as normal.","""We need to normalize self-care."" | ""We need to normalize mental health talks.""",slang,gen_zz_words.csv
+clout,"Noun: influence, popularity, social status, or power, especially online.","""He's just doing it for the clout.""",slang,gen_zz_words.csv
+deadass,"Adverb/adjective: seriously, genuinely, honestly, or completely serious.","""I'm deadass not joking."" | ""I'm deadass serious.""",slang,gen_zz_words.csv
+jomo,Noun: joy of missing out; happiness or relief from choosing not to attend or participate.,"""I'm all about JOMO these days."" | ""I prefer JOMO to FOMO.""",slang,gen_zz_words.csv
+living rent-free,"Verb phrase: taking up a lot of space in someone's thoughts or mind, often repeatedly or involuntarily.","""She's living rent-free in my mind."" | ""That comment is living rent-free in my mind.""",slang,gen_zz_words.csv
+normalize,"Verb: to make something accepted, common, usual, or treated as normal.","""We need to normalize self-care."" | ""We need to normalize mental health talks.""",slang,gen_zz_words.csv
 pressed,"Angry, annoyed, upset, irritated, or bothered about something.",Why are you so pressed?,slang,gen_zz_words.csv; manual_additions.csv
-Resonate,"Verb: to deeply connect with someone, feel meaningful, or make emotional or logical sense.","""That quote really resonates with me.""",slang,gen_zz_words.csv
-Shooketh,"Adjective: extremely shocked, surprised, or dramatically shaken.","""I am shooketh by that twist.""",slang,gen_zz_words.csv
-Swerve,"Verb: to avoid, dodge, reject, or move away from something or someone.","""I had to swerve to avoid the drama."" | ""She had to swerve that awkward conversation.""",slang,gen_zz_words.csv
-Tight,"Adjective: angry, frustrated, irritated, or upset.","""He's tight about what happened."" | ""Why are you so tight today?""",slang,gen_zz_words.csv
-Unbothered,"Adjective: not caring, unaffected, calm, or not emotionally disturbed by something.","""She's completely unbothered by the hate.""",slang,gen_zz_words.csv
-Wavy,"Adjective: cool, trendy, stylish, or impressive.","""That outfit is wavy.""",slang,gen_zz_words.csv
-Whip,Noun: car or vehicle.,"""Check out my new whip.""",slang,gen_zz_words.csv
-Wildin,"Verb/adjective form: acting wild, reckless, unreasonable, chaotic, or out of control.","""He was wildin' at the party.""",slang,gen_zz_words.csv
-Wylin,"Verb/adjective form: acting wild, reckless, unreasonable, chaotic, or out of control.","""She's wylin out here.""",slang,gen_zz_words.csv
-Zooted,Adjective: intoxicated or under the influence of drugs or alcohol.,"""He's zooted right now.""",slang,gen_zz_words.csv
-Zoomies,"Noun: a sudden burst of energy, often used for pets but sometimes playfully for people.","""My dog has the zoomies.""",slang,gen_zz_words.csv
-Spill the Tea,"Verb phrase: to share gossip, news, details, or private information.","""Come on, spill the tea.""",slang,gen_zz_words.csv
-Bodega,"Noun: a small grocery or convenience store, typically in an urban area.","""I'm heading to the bodega.""",slang,gen_zz_words.csv
-Gassed Up,"Adjective/verb phrase: feeling excited, confident, hyped, or encouraged; can also mean being praised or encouraged by others.","""I'm so gassed up for the concert.""",slang,gen_zz_words.csv
-Fire,"Adjective: really good, excellent, impressive, exciting, or high-quality.","""That song is fire."" | ""This pizza is fire.""",slang,gen_zz_words.csv
-Hypebeast,"Noun: someone strongly interested in fashionable, trendy, hyped, or expensive streetwear and brands.","""He's such a hypebeast.""",slang,gen_zz_words.csv
-Keep it 100,"Verb phrase: to be completely honest, truthful, real, or sincere.","""I'm just keeping it 100 with you.""",slang,gen_zz_words.csv
-No Cap,"Phrase: no lie, honestly, truthfully, or I am serious.","""That's the best movie, no cap.""",slang,gen_zz_words.csv
-Plug,"Noun: someone who can supply or provide something needed; verb: to promote, mention, or connect someone to a source, depending on context.","""He's the plug for all the best snacks.""",slang,gen_zz_words.csv
-Sneak Diss,"Noun: a subtle, indirect, hidden, or implied insult; verb phrase: to insult someone indirectly.","""Was that a sneak diss?""",slang,gen_zz_words.csv
-Stay Woke,"Verb phrase: stay aware, alert, or informed, especially about social or political issues.","""Stay woke about what's happening.""",slang,gen_zz_words.csv
-Thicc,"Adjective: having a curvy, full, or voluptuous body shape, usually used to describe someone's figure.","""She's so thicc.""",slang,gen_zz_words.csv
-Vibe,The mood or atmosphere.,"""I love the vibe here.""",slang,gen_zz_words.csv
-Wild,Crazy or out of control.,"""That party was wild.""",slang,gen_zz_words.csv
-Big Mood,A strong feeling or sentiment that others relate to.,"""That nap was a big mood.""",slang,gen_zz_words.csv
-YOLO,"Interjection/noun phrase: you only live once; used to justify taking risks, doing something spontaneous, or not overthinking consequences.","""I'm gonna do it, YOLO!""",slang,gen_zz_words.csv
-Bruh,"A casual term for ""bro"" or ""dude.""","""Come on, bruh, let's go.""",slang,gen_zz_words.csv
-Dead,Used to describe something very funny.,"""I'm dead, that was hilarious.""",slang,gen_zz_words.csv
-Mood,An expression of a relatable feeling or vibe.,"""That's such a mood.""",slang,gen_zz_words.csv
-Savage,"Acting fierce, confident, and unfiltered.","""Her clap back was savage.""",slang,gen_zz_words.csv
+resonate,"Verb: to deeply connect with someone, feel meaningful, or make emotional or logical sense.","""That quote really resonates with me.""",slang,gen_zz_words.csv
+shooketh,"Adjective: extremely shocked, surprised, or dramatically shaken.","""I am shooketh by that twist.""",slang,gen_zz_words.csv
+swerve,"Verb: to avoid, dodge, reject, or move away from something or someone.","""I had to swerve to avoid the drama."" | ""She had to swerve that awkward conversation.""",slang,gen_zz_words.csv
+tight,"Adjective: angry, frustrated, irritated, or upset.","""He's tight about what happened."" | ""Why are you so tight today?""",slang,gen_zz_words.csv
+unbothered,"Adjective: not caring, unaffected, calm, or not emotionally disturbed by something.","""She's completely unbothered by the hate.""",slang,gen_zz_words.csv
+wavy,"Adjective: cool, trendy, stylish, or impressive.","""That outfit is wavy.""",slang,gen_zz_words.csv
+whip,Noun: car or vehicle.,"""Check out my new whip.""",slang,gen_zz_words.csv
+wildin,"Verb/adjective form: acting wild, reckless, unreasonable, chaotic, or out of control.","""He was wildin' at the party.""",slang,gen_zz_words.csv
+wylin,"Verb/adjective form: acting wild, reckless, unreasonable, chaotic, or out of control.","""She's wylin out here.""",slang,gen_zz_words.csv
+zooted,Adjective: intoxicated or under the influence of drugs or alcohol.,"""He's zooted right now.""",slang,gen_zz_words.csv
+zoomies,"Noun: a sudden burst of energy, often used for pets but sometimes playfully for people.","""My dog has the zoomies.""",slang,gen_zz_words.csv
+spill the tea,"Verb phrase: to share gossip, news, details, or private information.","""Come on, spill the tea.""",slang,gen_zz_words.csv
+bodega,"Noun: a small grocery or convenience store, typically in an urban area.","""I'm heading to the bodega.""",slang,gen_zz_words.csv
+gassed up,"Adjective/verb phrase: feeling excited, confident, hyped, or encouraged; can also mean being praised or encouraged by others.","""I'm so gassed up for the concert.""",slang,gen_zz_words.csv
+fire,"Adjective: really good, excellent, impressive, exciting, or high-quality.","""That song is fire."" | ""This pizza is fire.""",slang,gen_zz_words.csv
+hypebeast,"Noun: someone strongly interested in fashionable, trendy, hyped, or expensive streetwear and brands.","""He's such a hypebeast.""",slang,gen_zz_words.csv
+keep it 100,"Verb phrase: to be completely honest, truthful, real, or sincere.","""I'm just keeping it 100 with you.""",slang,gen_zz_words.csv
+no cap,"Phrase: no lie, honestly, truthfully, or I am serious.","""That's the best movie, no cap.""",slang,gen_zz_words.csv
+plug,"Noun: someone who can supply or provide something needed; verb: to promote, mention, or connect someone to a source, depending on context.","""He's the plug for all the best snacks.""",slang,gen_zz_words.csv
+sneak diss,"Noun: a subtle, indirect, hidden, or implied insult; verb phrase: to insult someone indirectly.","""Was that a sneak diss?""",slang,gen_zz_words.csv
+stay woke,"Verb phrase: stay aware, alert, or informed, especially about social or political issues.","""Stay woke about what's happening.""",slang,gen_zz_words.csv
+thicc,"Adjective: having a curvy, full, or voluptuous body shape, usually used to describe someone's figure.","""She's so thicc.""",slang,gen_zz_words.csv
+vibe,The mood or atmosphere.,"""I love the vibe here.""",slang,gen_zz_words.csv
+wild,Crazy or out of control.,"""That party was wild.""",slang,gen_zz_words.csv
+big mood,A strong feeling or sentiment that others relate to.,"""That nap was a big mood.""",slang,gen_zz_words.csv
+yolo,"Interjection/noun phrase: you only live once; used to justify taking risks, doing something spontaneous, or not overthinking consequences.","""I'm gonna do it, YOLO!""",slang,gen_zz_words.csv
+bruh,"A casual term for ""bro"" or ""dude.""","""Come on, bruh, let's go.""",slang,gen_zz_words.csv
+dead,Used to describe something very funny.,"""I'm dead, that was hilarious.""",slang,gen_zz_words.csv
+mood,An expression of a relatable feeling or vibe.,"""That's such a mood.""",slang,gen_zz_words.csv
+savage,"Acting fierce, confident, and unfiltered.","""Her clap back was savage.""",slang,gen_zz_words.csv
 💀,Used as a symbol of laughter,,emoji,genz_emojis.csv
 🤡,someone who is acting or saying something incredibly foolish,,emoji,genz_emojis.csv
 😭,"exclusively used to indicate positive feelings, like when something is so funny, cute, or sweet that it’s totally overwhelming",,emoji,genz_emojis.csv
@@ -379,9 +379,9 @@ clout chaser,"Someone who tries to gain attention, popularity, or social status 
 grifter,"A person who dishonestly exploits a trend, ideology, or audience for money or attention.",That influencer is a grifter.,slang,manual_additions.csv
 rage farm,To repeatedly produce anger-inducing content for engagement.,That account rage farms every day.,slang,manual_additions.csv
 rage quit,To angrily stop playing or participating after frustration.,He rage quit after losing again.,slang,manual_additions.csv
-massive L,"A major loss, failure, or embarrassing outcome.",That reply was a massive L.,slang,manual_additions.csv
-common W,A predictable or typical success by someone who often does well.,Common W from her.,slang,manual_additions.csv
-rare W,An unexpected success from someone or something usually criticized.,Rare W from that app.,slang,manual_additions.csv
+massive l,"A major loss, failure, or embarrassing outcome.",That reply was a massive L.,slang,manual_additions.csv
+common w,A predictable or typical success by someone who often does well.,Common W from her.,slang,manual_additions.csv
+rare w,An unexpected success from someone or something usually criticized.,Rare W from that app.,slang,manual_additions.csv
 ratio bait,A post designed to provoke disagreement and get ratioed.,This is ratio bait.,slang,manual_additions.csv
 copium,Irrational comfort or denial used to cope with a bad situation.,That's pure copium.,slang,manual_additions.csv
 hopium,Unrealistic hope or optimism about a bad situation improving.,The fans are running on hopium.,slang,manual_additions.csv
