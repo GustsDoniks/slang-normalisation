@@ -62,7 +62,7 @@ The emotion distribution is also approximately balanced across train, validation
 | Sadness | 5.1% | 5.1% | 3.5% |
 | Fear | 1.0% | 0.6% | 0.6% |
 
-A separate balanced emotion test set was also created to support evaluation on an evenly distributed emotion sample.
+A separate balanced emotion test set was also synthetically created to support evaluation on an evenly distributed emotion sample.
 
 | Emotion | Count |
 |---|---:|
